@@ -2,12 +2,12 @@
 A repo for a flask server for the BAPSF facility 
 
 
-Created by Jio Gallardy 
+Created by Jio Gallardy and Phil Travis
 
 See notes and documentation below: 
-
-*To do :
-	*Get live images to be displayed
-	*Channel live data properly from MSI
-	*Make CSS and JS nice
-	*Plug in and get it running on external, non-local devices
+***
+To do :
+1. Get live images to be displayed
+2. Channel live data properly from MSI
+3. Make CSS and JS nice
+4. Plug in and get it running on external, non-local devices
